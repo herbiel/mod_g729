@@ -21,6 +21,6 @@ Edit /usr/local/freeswitch/conf/autoload_configs/modules.conf.xml
 
 Remove the `<load module="mod_g729"/>` annotation
 
-### 赞助商
+### 赞助商 4bit
 
 [![](https://typefo.com/assets/img/ad.jpg)](https://item.taobao.com/item.htm?ft=t&id=637600633789)
